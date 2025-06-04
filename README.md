@@ -10,7 +10,7 @@
 - Tools: Git, Figma, Vercel, Docker
 
 ## 📈 GitHub Stats
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=defemele&show_icons=true&theme=tokyonight)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfml&show_icons=true&theme=tokyonight)
 
 ## 🌐 Portfolio
 [🔗 Visit my website](https://tu-sitio.com)
