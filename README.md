@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Felipe!
 
-<!--
-**Dfml/Dfml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game & Full-Stack Web Developer  
+💻 Passionate about React, Node.js, and Unity  
+🌱 Currently learning: AI-powered tools & testing automation
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, Firebase, MongoDB
+- Tools: Git, Figma, Vercel, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=defemele&show_icons=true&theme=tokyonight)
+
+## 🌐 Portfolio
+[🔗 Visit my website](https://tu-sitio.com)
