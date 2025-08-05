@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Felipe!
 
-🎮 Game & Full-Stack Web Developer  
+🎮 Full-Stack Web & Game Developer 
 💻 Passionate about React, Node.js, and Unity  
 🌱 Currently learning: AI-powered tools & testing automation
 
